@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dinuka Perera, an Undergraduate at IIT and Economics enthusiast👨‍💻📈</div>  
+### <div align="center">I'm Dinuka Perera, an Undergraduate at IIT full time developer and Economics enthusiast👨‍💻📈</div>  
   
 
 - 🔭 I’m currently working on [The Predictor](https://github.com/J3r3myPerera/Stock-Prediction-with-time-Frame)  
