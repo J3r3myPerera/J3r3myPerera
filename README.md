@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dinuka Perera, an Undergraduate at IIT, full time developer and Economics enthusiast👨‍💻📈</div>  
   
 
-- 🔭 I’m currently working on [The Predictor](https://github.com/J3r3myPerera/Stock-Prediction-with-time-Frame)  
+- 🔭 I’m currently working on [CIDS Web Page](https://github.com/J3r3myPerera/GImhan-CIDS)  
   
 
 - 🌱 I’m currently learning Machine Learning and Algorithms  
