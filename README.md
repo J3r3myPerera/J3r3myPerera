@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dinuka Perera, an Undergraduate at IIT, full time developer and Economics enthusiast👨‍💻📈</div>  
   
 
-- 🔭 I’m currently working on [CIDS Web Page](https://github.com/J3r3myPerera/GImhan-CIDS)  
+- 🔭 I’m currently working on [Elecricity Calculator with Java]((https://github.com/J3r3myPerera/ElecricityBillCalculationWithJava))  
   
 
 - 🌱 I’m currently learning Machine Learning and Algorithms  
