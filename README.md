@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Machine Learning  
   
 
-- ❓ Ask me about anything related to Java  
+- ❓ Ask me about anything related to World Economics.
   
 
 - ⚡ Fun fact: I drink coffee more than an average human  
