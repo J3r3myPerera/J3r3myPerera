@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Dinuka Perera, an Undergraduate at IIT who's currently doing my internship at IFS, full time developer and Economics enthusiast👨‍💻📈</div>  
+### <div align="center">I'm Dinuka Perera, an Undergraduate at IIT who's currently doing my internship, full time developer and Economics enthusiast👨‍💻📈</div>  
   
 
 - 🔭 I’m currently working on [BTC Price Prediction]([https://github.com/J3r3myPerera/BTC-Price-Prediction])  
   
 
-- 🌱 I’m currently learning Machine Learning and Algorithms  
+- 🌱 I’m currently learning Machine Learning  
   
 
 - ❓ Ask me about anything related to Java  
