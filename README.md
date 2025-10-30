@@ -6,10 +6,10 @@
 ### <div align="center">I'm Dinuka Perera, an Undergraduate at IIT who's currently working as an Associate Software Engineer, full time developer and Economics enthusiast👨‍💻📈</div>  
   
 
-- 🔭 I’m currently working on [BTC Price Prediction]([https://github.com/J3r3myPerera/BTC-Price-Prediction])  
+- 🔭 I’m currently working on [Federated Learning with Flower]([https://github.com/J3r3myPerera/FLwithFlwr])  
   
 
-- 🌱 I’m currently learning Machine Learning  
+- 🌱 I’m currently learning Machine Learning/Federated Learning. 
   
 
 - ❓ Ask me about anything related to World Economics.
