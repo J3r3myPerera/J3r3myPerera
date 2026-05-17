@@ -22,7 +22,16 @@
 
 <br/>  
 
+## Projects I've contributed to  
+<div align="center">
 
+| Project | Description |
+|--------|-------------|
+| [⚡ Prefect](https://github.com/PrefectHQ/prefect) | Modern workflow orchestration for Python |
+
+</div>  
+
+<!-- <br/>   -->
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
