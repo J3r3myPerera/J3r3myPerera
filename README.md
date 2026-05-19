@@ -28,6 +28,7 @@
 | Project | Description |
 |--------|-------------|
 | [⚡ Prefect](https://github.com/PrefectHQ/prefect) | Modern workflow orchestration for Python |
+| [⚡ Running Heatmap](https://github.com/moresamwilson/running-heatmap) | Turns a Strava data export into an interactive heatmap.|
 
 </div>  
 
