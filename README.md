@@ -29,6 +29,7 @@
 |--------|-------------|
 | [⚡ Prefect](https://github.com/PrefectHQ/prefect) | Modern workflow orchestration for Python |
 | [⚡ Running Heatmap](https://github.com/moresamwilson/running-heatmap) | Turns a Strava data export into an interactive heatmap.|
+| [⚡ Hugging Face Transformers Library](https://github.com/huggingface/transformers) | State-of-the-art pretrained models for inference and training.|
 
 </div>  
 
