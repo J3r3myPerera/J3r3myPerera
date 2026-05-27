@@ -33,6 +33,16 @@
 
 </div>  
 
+## Projects I maintain 
+<div align="center">
+
+| Project | Description |
+|--------|-------------|
+| [⚡ St. Mary's Church](https://stmarysmaharagama.org) | A website for Our Lady of the Assumption Parish in Maharagama, Sri Lanka. |
+| [⚡ CIDS Sri Lanka](https://www.cidssrilanka.com) | Static website for CIDS Sri Lanka.|
+
+</div> 
+
 <!-- <br/>   -->
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
