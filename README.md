@@ -40,6 +40,7 @@
 |--------|-------------|
 | [⚡ St. Mary's Church](https://stmarysmaharagama.org) | A website for Our Lady of the Assumption Parish in Maharagama, Sri Lanka. |
 | [⚡ CIDS Sri Lanka](https://www.cidssrilanka.com) | Static website for CIDS Sri Lanka.|
+| [⚡ SmartFedProx](https://github.com/J3r3myPerera/FLRegressionFwr) |A novel Federated Learning Framework to address Data Heterogeneity.|
 
 </div> 
 
