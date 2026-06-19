@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dinuka Perera, Associate Software Engineer @ IFS | studying SE at University of Westminster. I spend my days writing production code and my evenings trying to make federated learning work on non-IID financial data. Final year thesis on SmartFedProx — an adaptive proximal FL algorithm I built using Flower + PyTorch and an Economics enthusiast👨‍💻📈</div>  
+### <div align="center">I'm Dinuka Perera, Associate Software Engineer @ IFS | studying SE at University of Westminster. I spend my days writing production code and my evenings pushing weights and working on my side projects. Final year thesis on SmartFedProx — an adaptive proximal FL algorithm I built using Flower + PyTorch and an Economics enthusiast👨‍💻📈</div>  
   
 
 - 🔭 I'm currently working on [SmartFedProx, A novel Federated Learning Framework to address Data Heterogeneity](https://github.com/J3r3myPerera/FLRegressionFwr)
